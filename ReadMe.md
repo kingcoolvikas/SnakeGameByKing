@@ -2,6 +2,10 @@
 
 ### A snake game written in Python using the PyGame library.
 
+![sc1](sc1.png)
+![sc2](sc2.png)
+![sc3](sc3.png)
+
 ## Installation
 
 * Install Latest Python From [Python](https://www.python.org/downloads/)
