@@ -1,6 +1,6 @@
 # Snake Game By King
 
-**A snake game written in Python using the PyGame library.**
+### A snake game written in Python using the PyGame library.
 
 ## Installing
 
@@ -10,6 +10,6 @@
 
 ### Running the Application
 
-* **Just Download this whole Repository as _.zip_ format.** <br>
-* **Then run _snake.py_ with your favourite IDE. :smile:**
+* Just Download this whole Repository as _.zip_ format. <br>
+* Then run _snake.py_ with your favourite IDE. :smile:
 
