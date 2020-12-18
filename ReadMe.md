@@ -2,7 +2,7 @@
 
 ### A snake game written in Python using the PyGame library.
 
-## Installing
+## Installation
 
 * Install Latest Python From [Python](https://www.python.org/downloads/)
 * Open Your Terminal/Cmd.
