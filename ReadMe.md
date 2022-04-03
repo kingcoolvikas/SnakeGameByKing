@@ -1,5 +1,7 @@
 # Snake Game By King
 
+_Author : Vikas Anand_
+
 ### A snake game written in Python using the PyGame library.
 
 ![sc1](sc1.png)
