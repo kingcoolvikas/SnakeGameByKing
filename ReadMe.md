@@ -11,6 +11,9 @@
 * Install Latest Python From [Python](https://www.python.org/downloads/)
 * Open Your Terminal/Cmd.
 * Type `pip install pygame/ pip3 install pygame`
+* `git clone https://github.com/kingcoolvikas/SnakeGameByKing.git`
+* cd SnakeGameByKing
+* python3 snake.py
 
 ### Running the Application
 
