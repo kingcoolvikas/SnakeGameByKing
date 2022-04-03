@@ -15,9 +15,12 @@
 * cd SnakeGameByKing
 * python3 snake.py
 
-### Running the Application
+### How To Play
 
-* Just Download this whole Repository as _.zip_ format. <br>
-* Then run _snake.py_ with your favourite IDE. :smile:
+* W : UP
+* S : DOWN
+* A : LEFT
+* D : RIGHT
+* ENTER : REPLAY THE GAME
 
 #### ALL Credits Goes To : [CodeWithHarry](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww)
